@@ -1,0 +1,15 @@
+body {
+    background-color: #e27f53;
+}
+
+button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 10px;
+    background-color: #FFF;
+    border: none;
+    font-size: 28px;
+    text-transform: uppercase;
+}
