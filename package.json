@@ -1,0 +1,14 @@
+{
+  "name": "fractal-maker",
+  "version": "1.0.0",
+  "description": "App that generates fractals",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Fabián Álvarez Gómez",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.9.3"
+  }
+}
