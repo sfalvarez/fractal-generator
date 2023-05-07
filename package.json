@@ -9,6 +9,6 @@
   "author": "Sergio Fabián Álvarez Gómez",
   "license": "ISC",
   "dependencies": {
-    "jimp": "^0.9.3"
+    "jimp": "^0.22.7"
   }
 }
